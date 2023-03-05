@@ -1,0 +1,16 @@
+.bikerz-zone-light-red {
+    background-color: rgb(223, 128, 128);
+}
+
+.rating-icon {
+    width: 20px
+}
+
+.btn-bz-danger {
+    background-color: rgb(240, 120, 120);
+    color: white;
+}
+
+.w-25 {
+    width: 75% !important;
+}
